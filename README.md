@@ -37,7 +37,7 @@ To keep things consistent and searchable, please follow these conventions:
 |---|---|---|
 | Session folder | `SessionTitle-SpeakerLastName` | `GitOpsWithPSCore-Smith` |
 | Slide decks | `SessionTitle-SpeakerLastName.pptx` | `GitOpsWithPSCore-Smith.pptx` |
-| Code/demo files | Descriptive, kebab-case | `deploy-pipeline.ps1` |
+| Code/demo files | Descriptive, Pascal-case | `Deploy-Pipeline.ps1` |
 | No spaces | Use hyphens or underscores | ✅ `my-demo.ps1` ❌ `my demo.ps1` |
 
 - Keep all filenames lowercase where possible
